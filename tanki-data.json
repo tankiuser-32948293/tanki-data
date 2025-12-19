@@ -855,6 +855,15 @@
             "Critical damage: -90%"
           ]
         },
+        "Excelsior": {
+          "name": "Excelsior",
+          "advantages": [
+            "Damage: +30%",
+            "Turning speed: +15%",
+            "Turning acceleration: +15%"
+          ],
+          "disadvantages": []
+        },
         "Phoenix": {
           "name": "Phoenix",
           "advantages": [
@@ -2507,6 +2516,15 @@
             "Critical chance: -12%",
             "Critical damage: -90%"
           ]
+        },
+        "Excelsior": {
+          "name": "Excelsior",
+          "advantages": [
+            "Damage: +30%",
+            "Turning speed: +15%",
+            "Turning acceleration: +15%"
+          ],
+          "disadvantages": []
         },
         "Phoenix": {
           "name": "Phoenix",
