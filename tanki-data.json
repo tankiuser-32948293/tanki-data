@@ -3198,8 +3198,8 @@
             "Damage (Combo Shot with grenade): +100%",
             "Shot warmup time: 0.5s",
             "Max. area damage radius of the grenade: +100%",
-            "Min. area damage radius of the grenade: +100%",
-            "Avg. area damage radius of the grenade: +30%",
+            "Avg. area damage radius of the grenade: +100%",
+            "Min. area damage radius of the grenade: +30%",
             "Rotational acceleration: +100%"
           ],
           "disadvantages": []
