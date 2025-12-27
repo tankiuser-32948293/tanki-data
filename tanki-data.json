@@ -1005,9 +1005,9 @@
           "name": "Bombard",
           "advantages": [
             "Reload time: -45%",
-            "Time up to the maximum speed: -50%.",
-            "Max. projectile speed -40%",
-            "Min. Projectile speed -40%"
+            "Time to maximum charge level: -50%.",
+            "Max. projectile speed: -40%",
+            "Min. Projectile speed: -40%"
           ],
           "disadvantages": [
             "Minimum angle of elevation: 45° ",
@@ -1063,6 +1063,20 @@
           "disadvantages": [
             "Critical chance: -8%",
             "Critical damage: -90%"
+          ]
+        },
+        "Carronade": {
+          "name": "Carronade",
+          "advantages": [
+            "Reload time: -60%",
+            "Time to maximum charge level: -60%",
+            "Recoil: -30%",
+            "Rotation speed: +33%",
+            "Rotation acceleration: +33%"
+          ],
+          "disadvantages": [
+            "Damage: -35%",
+            "Max. projectile speed: 100 m/s"
           ]
         },
         "Excelsior": {
