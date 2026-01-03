@@ -2447,7 +2447,7 @@
             "Damage: +80%",
             "Critical damage: +40%",
             "Pellets per shot: +200% (60)",
-            "Critical chance: =50%",
+            "Critical chance: 50%",
             "Clip reload time: -20%"
           ],
           "disadvantages": [
