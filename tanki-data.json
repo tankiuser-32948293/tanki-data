@@ -357,8 +357,8 @@
             "Effect is disabled when the tank has the Freezing status effect."
           ]
         },
-        "Explosive shells": {
-          "name": "Explosive shells",
+        "Explosive Shells": {
+          "name": "Explosive Shells",
           "advantages": [
             "Arcade minimum splash damage radius: 10 m",
             "Arcade average splash damage radius: 2 m"
@@ -714,8 +714,8 @@
             "Effect is disabled when the tank has the Freezing status effect."
           ]
         },
-        "Shooting speed regulator": {
-          "name": "Shooting speed regulator",
+        "Shooting Speed Regulator": {
+          "name": "Shooting Speed Regulator",
           "advantages": [
             "Barrel startup time: -50%",
             "Barrel slowdown time: -85%",
@@ -798,8 +798,8 @@
             "Critical damage: -50%"
           ]
         },
-        "Rubberized rounds": {
-          "name": "Rubberized rounds",
+        "Rubberized Rounds": {
+          "name": "Rubberized Rounds",
           "advantages": [
             "Maximum number of projectile bounces: 5 ",
             "Minimum ricochet angle: 1°",
@@ -2851,8 +2851,8 @@
             "Reload: +20%"
           ]
         },
-        "Heavy plasmagun": {
-          "name": "Heavy plasmagun",
+        "Heavy Plasmagun": {
+          "name": "Heavy Plasmagun",
           "advantages": [
             "Regular and critical damage: +35%"
           ],
