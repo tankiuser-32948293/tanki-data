@@ -2328,7 +2328,248 @@
     "HAMMER": {
       "name": "HAMMER",
       "link": "https://en.tankiwiki.com/Augments_for_Hammer",
-      "augmentData": {}
+      "augmentData": {
+        "Adrenaline": {
+          "name": "Adrenaline",
+          "advantages": [
+            "Regular and critical damage: +25%"
+          ],
+          "disadvantages": [
+            "Damage bonus only activates when health is ≤35%",
+            "Effect is disabled when the tank has the Freezing status effect."
+          ]
+        },
+        "Slugger": {
+          "name": "Slugger",
+          "advantages": [
+            "Range of minimum damage: +50%\nHighlighting range: +25% ",
+            "Range of maximum damage: +50%",
+            "Vertical scatter angle: -50%",
+            "Horizontal scatter angle: -75%"
+          ],
+          "disadvantages": [
+            "Impact force: -50%"
+          ]
+        },
+        "High-capacity ammo clip": {
+          "name": "High-capacity ammo clip",
+          "advantages": [
+            "Shots per clip: 5"
+          ],
+          "disadvantages": [
+            "Clip reload: +20%"
+          ]
+        },
+        "Duplet": {
+          "name": "Duplet",
+          "advantages": [
+            "Shot reload: -80%"
+          ],
+          "disadvantages": [
+            "Shots per clip: 2",
+            "Clip reload: +25%",
+            "Impact force: -50%"
+          ]
+        },
+        "Wyvern's Breath": {
+          "name": "Wyvern's Breath",
+          "advantages": [
+            "Critically hitting an enemy lowers their temperature by -1.00.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Dragon's Breath": {
+          "name": "Dragon's Breath",
+          "advantages": [
+            "Critically hitting an enemy raises their temperature by +0.4.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Magnetic Pellets": {
+          "name": "Magnetic Pellets",
+          "advantages": [
+            "Critically hitting an enemy will apply the  Electromagnetic Pulse status effect to them for 1 second.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Stunning Pellets": {
+          "name": "Stunning Pellets",
+          "advantages": [
+            "Critically hitting an enemy will apply the  Stun status effect to them for 0.8 seconds.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Armor-Piercing Shot": {
+          "name": "Armor-Piercing Shot",
+          "advantages": [
+            "Critically hitting an enemy will apply the  Armor-Piercing status effect to them for 3 seconds.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Jamming Shot": {
+          "name": "Jamming Shot",
+          "advantages": [
+            "Hitting an enemy will apply the  Jammer status effect to them for 3 seconds."
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Adaptive reload": {
+          "name": "Adaptive reload",
+          "advantages": [
+            "Destroying an enemy reloads the clip",
+            "Reload time between shots: -20%",
+            "Shots per clip: 4"
+          ],
+          "disadvantages": [
+            "Clip reload time: +20%"
+          ]
+        },
+        "Blunderbuss": {
+          "name": "Blunderbuss",
+          "advantages": [
+            "Damage: +80%",
+            "Critical damage: +40%",
+            "Pellets per shot: +200% (60)",
+            "Critical chance: 50%",
+            "Clip reload time: -20%"
+          ],
+          "disadvantages": [
+            "Shots per clip: 1",
+            "Horizontal Angle of Scatter: +100%"
+          ]
+        },
+        "Revolver": {
+          "name": "Revolver",
+          "advantages": [
+            "Shots per clip: 6",
+            "Every third shot deals critical damage.",
+            "Shot reload: -5%"
+          ],
+          "disadvantages": [
+            "Clip reload: +25%"
+          ]
+        },
+        "Large Caliber Pellets": {
+          "name": "Large Caliber Pellets",
+          "advantages": [
+            "Damage: +70%",
+            "Critical damage: +20%"
+          ],
+          "disadvantages": [
+            "Shot reload: +80%",
+            "Clip reload: +50%"
+          ]
+        },
+        "Assault Magazine": {
+          "name": "Assault Magazine",
+          "advantages": [
+            "Shot reload: -75%",
+            "Clip reload: -25%",
+            "Recoil: -80%"
+          ],
+          "disadvantages": [
+            "Critical chance: -50%",
+            "Pellets per shot = 10 ",
+            "Impact force: -80%"
+          ]
+        },
+        "Heavy Slugger": {
+          "name": "Heavy Slugger",
+          "advantages": [
+            "Range of maximum damage: +100%",
+            "Range of minimum damage: +100%\nHighlighting range: +100% ",
+            "Horizontal scatter angle: -75%"
+          ],
+          "disadvantages": [
+            "Turret rotation speed: -35%",
+            "Turret rotary acceleration: -35%",
+            "Impact force: -50%"
+          ]
+        },
+        "Hunter Duplet": {
+          "name": "Hunter Duplet",
+          "advantages": [
+            "Horizontal scatter angle: -50%",
+            "Range of maximum damage: +100%",
+            "Range of minimum damage: +100%\nHighlighting range: +100% ",
+            "Time between the two shots: -80%"
+          ],
+          "disadvantages": [
+            "Shots per clip: 2",
+            "Clip reload: +15%",
+            "Impact force: -50%"
+          ]
+        },
+        "Boxer": {
+          "name": "Boxer",
+          "advantages": [
+            "Clip reload: -56%",
+            "Pellets per shot: +50%",
+            "Impact Force: +40%"
+          ],
+          "disadvantages": [
+            "Shots per clip: 1",
+            "Recoil +10%"
+          ]
+        },
+        "Camper": {
+          "name": "Camper",
+          "advantages": [
+            "Normal and critical damage increase: +90%"
+          ],
+          "disadvantages": [
+            "Damage boost is active only while you have at least 50% of your maximum HP.",
+            "Effect is disabled when the tank has the  Freezing status effect."
+          ]
+        },
+        "Pulsar": {
+          "name": "Pulsar",
+          "advantages": [
+            "Hitting an enemy with a critical shot will apply the following status effects:\n Jammer: 3 sec\n Electromagnetic Pulse: 1 sec\n Stun: 0.8 sec\n Armor-Piercing: 3 sec"
+          ],
+          "disadvantages": [
+            "Critical chance: -12%",
+            "Critical damage: -90%"
+          ]
+        },
+        "Excelsior": {
+          "name": "Excelsior",
+          "advantages": [
+            "Damage: +30%",
+            "Turning speed: +15%",
+            "Turning acceleration: +15%"
+          ],
+          "disadvantages": []
+        },
+        "Phoenix": {
+          "name": "Phoenix",
+          "advantages": [
+            "Damage: +15%",
+            "Critical damage: +15%",
+            "Critical chance: +30%",
+            "Vertical auto-aim: +15%",
+            "Reputation points earned in battle: +40%"
+          ],
+          "disadvantages": []
+        }
+      }
     },
     "THUNDER": {
       "name": "THUNDER",
@@ -2576,7 +2817,189 @@
     "TWINS": {
       "name": "TWINS",
       "link": "https://en.tankiwiki.com/Augments_for_Twins",
-      "augmentData": {}
+      "augmentData": {
+        "Adrenaline": {
+          "name": "Adrenaline",
+          "advantages": [
+            "Regular and critical damage: +25%"
+          ],
+          "disadvantages": [
+            "Damage bonus only activates when health is ≤25%",
+            "Effect is disabled when the tank has the Freezing status effect."
+          ]
+        },
+        "Stabilized plasma": {
+          "name": "Stabilized plasma",
+          "advantages": [
+            "Impact force: +20%",
+            "Self-damage removed"
+          ],
+          "disadvantages": [
+            "Splash damage removed"
+          ]
+        },
+        "Plasma accelerators": {
+          "name": "Plasma accelerators",
+          "advantages": [
+            "Initial projectile speed: +100%",
+            "Range of minimum damage: +50%",
+            "Range: +50%",
+            "Highlighting distance: +50%",
+            "Projectile acceleration: +20%"
+          ],
+          "disadvantages": [
+            "Reload: +20%"
+          ]
+        },
+        "Heavy Plasmagun": {
+          "name": "Heavy Plasmagun",
+          "advantages": [
+            "Regular and critical damage: +35%"
+          ],
+          "disadvantages": [
+            "Range: -45%",
+            "Range of minimum damage: -45%",
+            "Highlighting distance: -45%",
+            "Initial projectile speed: -50%"
+          ]
+        },
+        "Cryotron": {
+          "name": "Cryotron",
+          "advantages": [
+            "Critical hits decrease the target's temperature by -1.0",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Vaporizer": {
+          "name": "Vaporizer",
+          "advantages": [
+            "Critical hits increase the target's temperature by +0.4",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Magnetron": {
+          "name": "Magnetron",
+          "advantages": [
+            "Critical hits activate the  Electromagnetic Pulse status effect for 1 second",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Tectonic Plasma": {
+          "name": "Tectonic Plasma",
+          "advantages": [
+            "Critical hits  Stun the enemy for 0.4 seconds",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Plasma Injector": {
+          "name": "Plasma Injector",
+          "advantages": [
+            "Critically hitting an enemy applies the  Armor-Piercing status effect to them for 1.5 second.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Plasma Disruptor": {
+          "name": "Plasma Disruptor",
+          "advantages": [
+            "Critically hitting an enemy activates the  Jammer status effect for 3 second"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Plasma Turbo Accelerators": {
+          "name": "Plasma Turbo Accelerators",
+          "advantages": [
+            "Reload: -50%",
+            "Range (of minimum damage): +100%",
+            "Recoil: -80%",
+            "Initial projectile speed: +125%"
+          ],
+          "disadvantages": [
+            "Regular damage: -60%",
+            "Impact force: -70%"
+          ]
+        },
+        "Plasmatron": {
+          "name": "Plasmatron",
+          "advantages": [
+            "Initial projectile speed: +50%",
+            "Standard damage: +250%"
+          ],
+          "disadvantages": [
+            "Recharge time: +300%"
+          ]
+        },
+        "Tempest": {
+          "name": "Tempest",
+          "advantages": [
+            "Normal damage: +35%",
+            "Critical damage: +125%",
+            "Chance of critical damage: +100%",
+            "Target speed: +1200%",
+            "Impact force: +100%"
+          ],
+          "disadvantages": [
+            "Initial projectile speed: -95%",
+            "Projectile acceleration time: +25%"
+          ]
+        },
+        "Camper": {
+          "name": "Camper",
+          "advantages": [
+            "Normal and critical damage increase: +90%"
+          ],
+          "disadvantages": [
+            "Damage boost is active only while you have at least 85% of your maximum HP.",
+            "Effect is disabled when the tank has the  Freezing status effect."
+          ]
+        },
+        "Pulsar": {
+          "name": "Pulsar",
+          "advantages": [
+            "Hitting an enemy with a critical shot will apply the following status effects:\n Jammer: 1 sec\n Electromagnetic Pulse: 1 sec\n Stun: 0.4 sec\n Armor-Piercing: 1.5 sec"
+          ],
+          "disadvantages": [
+            "Critical chance: -25%",
+            "Critical damage: -90%"
+          ]
+        },
+        "Excelsior": {
+          "name": "Excelsior",
+          "advantages": [
+            "Damage: +30%",
+            "Turning speed: +15%",
+            "Turning acceleration: +15%"
+          ],
+          "disadvantages": []
+        },
+        "Phoenix": {
+          "name": "Phoenix",
+          "advantages": [
+            "Damage: +15%",
+            "Critical damage: +15%",
+            "Critical chance: +30%",
+            "Vertical auto-aim: +15%",
+            "Reputation points earned in battle: +40%"
+          ],
+          "disadvantages": []
+        }
+      }
     },
     "RAILGUN": {
       "name": "RAILGUN",
