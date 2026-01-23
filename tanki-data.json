@@ -2275,12 +2275,12 @@
         "Stellarator": {
           "name": "Stellarator",
           "advantages": [
-            "Minimum sniping damage: +380%",
+            "Initial sniping damage: +380%",
             "Energy consumed = 200 units/sec"
           ],
           "disadvantages": [
-            "Maximum sniping damage: -15%",
-            "Energy consumed per sniping shot: +50%"
+            "Final sniping damage: -15%",
+            "Energy consumed per sniping shot: +60%"
           ]
         },
         "Camper": {
