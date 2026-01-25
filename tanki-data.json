@@ -471,7 +471,9 @@
           "advantages": [
             "Rockets per salvo: +10",
             "Aiming time: -50%",
-            "Pause between salvo's rockets: -30%"
+            "Pause between salvo's rockets: -30%",
+            "Initial rocket angular speed: +10%",
+            "Final rocket angular speed: +400%"
           ],
           "disadvantages": [
             "Final rocket speed: -20%"
@@ -480,7 +482,7 @@
         "Missile launcher «Spear»": {
           "name": "Missile launcher «Spear»",
           "advantages": [
-            "Salvo reload time: -25%",
+            "Salvo reload time: -20%",
             "Aiming time: -50%",
             "Maximum rocket speed: 30 m/s",
             "Initial rocket speed: 45 m/s",
