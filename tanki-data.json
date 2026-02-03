@@ -720,7 +720,7 @@
           "name": "Shooting Speed Regulator",
           "advantages": [
             "Barrel startup time: -50%",
-            "Barrel slowdown time: -85%",
+            "Barrel slowdown time: -60%",
             "Regular damage: +50%",
             "Critical chance: +50%",
             "Time to overheating: +50%"
