@@ -531,6 +531,17 @@
             "Critical damage: -90%"
           ]
         },
+        "Vacuum shell": {
+          "name": "Vacuum shell",
+          "advantages": [
+            "Splash damage radius: 12 meters",
+            "Average Splash damage radius: 9 meters",
+            "Average and minimum splash damage: 250%"
+          ],
+          "disadvantages": [
+            "Damage: -15%"
+          ]
+        },
         "Excelsior": {
           "name": "Excelsior",
           "advantages": [
@@ -2792,6 +2803,22 @@
           "disadvantages": [
             "Critical chance: -12%",
             "Critical damage: -90%"
+          ]
+        },
+        "Yamato": {
+          "name": "Yamato",
+          "advantages": [
+            "Normal Damage +60%",
+            "Critical Damage +50%",
+            "Launch Speed ​​+100%",
+            "Aiming speed +100%",
+            "End of damage degression +50%",
+            "Enemy highlight range +50%"
+          ],
+          "disadvantages": [
+            "Reload time +80%",
+            "Rotation speed -25%",
+            "Rotation acceleration -25%"
           ]
         },
         "Excelsior": {
