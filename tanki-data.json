@@ -2810,10 +2810,10 @@
           "advantages": [
             "Normal Damage +60%",
             "Critical Damage +50%",
-            "Launch Speed ​​+100%",
-            "Aiming speed +100%",
-            "End of damage degression +50%",
-            "Enemy highlight range +50%"
+            "Initial projectile Speed ​​+100%",
+            "Final projectile speed +100%",
+            "Range of minimum damage: +50%",
+            "Enemy highlighting range +50%"
           ],
           "disadvantages": [
             "Reload time +80%",
