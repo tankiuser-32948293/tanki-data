@@ -731,7 +731,7 @@
           "name": "Shooting Speed Regulator",
           "advantages": [
             "Barrel startup time: -50%",
-            "Barrel slowdown time: -60%",
+            "Barrel slowdown time: -50%",
             "Regular damage: +50%",
             "Critical chance: +50%",
             "Time to overheating: +50%"
@@ -2149,7 +2149,7 @@
             "Minimum sniping damage: +30%"
           ],
           "disadvantages": [
-            "Arcade reload: +34%"
+            "Arcade reload: +15%"
           ]
         },
         "Heavy capacitors": {
@@ -2280,7 +2280,7 @@
           ],
           "disadvantages": [
             "Sniping shot reload time: +44.4%",
-            "Arcade shot reload time: +100%",
+            "Arcade shot reload time: +70%",
             "All sniping shots will consume the full energy bar and so require a full reload",
             "Turret rotation speed: -25%"
           ]
