@@ -17,8 +17,8 @@
         "High-pressure pump": {
           "name": "High-pressure pump",
           "advantages": [
-            "Range +50%",
-            "Range (of minimum damage): +50%",
+            "Range +25%",
+            "Range of minimum damage: +50%",
             "Range of maximum damage: +50%"
           ],
           "disadvantages": [
@@ -472,11 +472,11 @@
             "Rockets per salvo: +10",
             "Aiming time: -50%",
             "Pause between salvo's rockets: -30%",
-            "Initial rocket angular speed: +10%",
             "Final rocket angular speed: +400%"
           ],
           "disadvantages": [
-            "Final rocket speed: -20%"
+            "Final rocket speed: -20%",
+            "Initial rocket angular speed: -10%"
           ]
         },
         "Missile launcher «Spear»": {
@@ -581,6 +581,7 @@
         "High-pressure pump": {
           "name": "High-pressure pump",
           "advantages": [
+            "Range: +25%",
             "Range (of minimum damage): +50%",
             "Range of maximum damage: +50%"
           ],
@@ -854,7 +855,8 @@
           "disadvantages": [
             "Reload: +100% ",
             "Recoil: +100%",
-            "Rotation speed: -50%"
+            "Rotation speed: -50%",
+            "Rotation acceleration: -50%"
           ]
         },
         "Camper": {
@@ -1085,11 +1087,12 @@
             "Time to maximum charge level: -60%",
             "Recoil: -30%",
             "Rotation speed: +33%",
-            "Rotation acceleration: +33%"
+            "Rotation acceleration: +33%",
+            "Minimum projectile speed: +50%"
           ],
           "disadvantages": [
             "Damage: -35%",
-            "Max. projectile speed: 100 m/s"
+            "Maximum projectile speed: -9%"
           ]
         },
         "Excelsior": {
@@ -1198,7 +1201,7 @@
             "Recovers HP at a rate of 35% of your base damage per tick while beam is on an enemy. Healing rate is not affected by protection, supplies, or status effects."
           ],
           "disadvantages": [
-            "Energy consumption when idle: +200%",
+            "Energy consumption when idle: +300%",
             "Critical hits removed (damage and healing)",
             "Healing rate: -99%"
           ]
@@ -1211,7 +1214,7 @@
             "Enemy highlight range: +50%"
           ],
           "disadvantages": [
-            "Energy consumption when idle: +200%",
+            "Energy consumption when idle: +100%",
             "Cone angle: -60%"
           ]
         },
@@ -1505,7 +1508,7 @@
         "Hacked Aiming Processor": {
           "name": "Hacked Aiming Processor",
           "advantages": [
-            "Aiming recovery time = 10 seconds"
+            "Aiming recovery time: +400%"
           ],
           "disadvantages": []
         },
@@ -1603,12 +1606,12 @@
           "name": "Nemesis",
           "advantages": [
             "Salvo reload: -70%",
-            "Damage per shot +140%",
-            "Time to reacquire target = 10 sec."
+            "Salvo damage: +140%",
+            "Aiming recovery time: +400%"
           ],
           "disadvantages": [
-            "Aiming time +120%",
-            "Recoil +150%"
+            "Aiming time: +120%",
+            "Recoil: +150%"
           ]
         },
         "Solenoid Cooling": {
@@ -1636,10 +1639,11 @@
         "Boxer": {
           "name": "Boxer",
           "advantages": [
-            "Impact force in Sniping mode: +200%",
-            "Impact force in Arcade mode: +50%",
+            "Salvo impact force: +200%",
+            "Salvo splash damage impact force: +600%",
+            "Arcade impact force: +50%",
             "Aiming time: -10%",
-            "Reload time in sniping mode: -30%",
+            "Salvo reload: -30%",
             "Arcade Shot damage: +27%",
             "Arcade Critical Shot damage: +29%"
           ],
@@ -2459,13 +2463,13 @@
           "advantages": [
             "Damage: +80%",
             "Critical damage: +40%",
-            "Pellets per shot: +200% (60)",
+            "Pellets per shot: +100% (40)",
             "Critical chance: 50%",
             "Clip reload time: -20%"
           ],
           "disadvantages": [
             "Shots per clip: 1",
-            "Horizontal Angle of Scatter: +100%"
+            "Horizontal Angle of Scatter: +200%"
           ]
         },
         "Revolver": {
