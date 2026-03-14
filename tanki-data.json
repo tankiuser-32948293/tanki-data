@@ -1839,6 +1839,15 @@
             "Radius of adding ball lightning to the chain (m) : 1 m"
           ]
         },
+        "Tesla Increased Voltage": {
+          "name": "Tesla Increased Voltage",
+          "advantages": [
+            "TBA"
+          ],
+          "disadvantages": [
+            "TBA"
+          ]
+        },
         "Camper": {
           "name": "Camper",
           "advantages": [
@@ -3299,7 +3308,7 @@
         "name": "Lightweight Construction",
         "advantages": [
           "Acceleration: +15%",
-          "Weight: -30% "
+          "Weight: -30%"
         ],
         "disadvantages": []
       },
@@ -3324,9 +3333,7 @@
         "advantages": [
           "Provides complete immunity from  Burning."
         ],
-        "disadvantages": [
-          "Vulcan's Incendiary band augment can't inflict the burning status effect. "
-        ]
+        "disadvantages": []
       },
       "Cold Immunity": {
         "name": "Cold Immunity",
@@ -3338,28 +3345,28 @@
       "EMP Immunity": {
         "name": "EMP Immunity",
         "advantages": [
-          "Provides complete immunity from the  Electromagnetic Pulse status effect."
+          "Provides complete immunity from  Electromagnetic Pulse"
         ],
         "disadvantages": []
       },
       "Stun Immunity": {
         "name": "Stun Immunity",
         "advantages": [
-          "Provides complete immunity from the  Stun status effect."
+          "Provides complete immunity from  Stun"
         ],
         "disadvantages": []
       },
       "AP Immunity": {
         "name": "AP Immunity",
         "advantages": [
-          "Provides complete immunity from the  Armor-Piercing status effect."
+          "Provides complete immunity from  Armor-Piercing"
         ],
         "disadvantages": []
       },
       "Jammer Immunity": {
         "name": "Jammer Immunity",
         "advantages": [
-          "Provides complete immunity from the  Jammer status effect. The wearer will be able to activate their overdrive and will have full use of their drone."
+          "Provides complete immunity from  Jammer"
         ],
         "disadvantages": []
       },
@@ -3374,23 +3381,22 @@
       "Blaster": {
         "name": "Blaster",
         "advantages": [
-          "Light hulls deal a maximum of 750-1500 chaos damage upon death to enemies nearby",
-          "Medium hulls deal a maximum of 1125-2250  chaos damage upon death to enemies nearby",
-          "Heavy hulls deal maximum 1500-3000chaos damage upon death to enemies nearby\nRadius of maximum splash damage: 3m\nRadius of average splash damage: 4m\nRadius of minimum splash damage: 15m\nAverage and minimum splash damage: 50%"
+          "Chaos damage on death depending on hull weight"
         ],
         "disadvantages": []
       },
       "Lifeguard": {
         "name": "Lifeguard",
         "advantages": [
-          "Protects the tank from destruction once per respawn\nHealth  recovered: 500 HP"
+          "Prevents death once",
+          "Recovers 500 HP"
         ],
         "disadvantages": []
       },
       "Miner": {
         "name": "Miner",
         "advantages": [
-          "70% of placed mines survive after the death of the tank. The surviving mines are chosen randomly."
+          "70% of mines survive after death"
         ],
         "disadvantages": []
       },
@@ -3425,18 +3431,23 @@
       "Phoenix": {
         "name": "Phoenix",
         "advantages": [
-          "Freezing speed  Freezing: -50%",
-          "Heating speed  Burning: -50%",
-          "Provides immunity from negative effects:\n Jammer\n Electromagnetic Pulse\n Stun\n Armor-Piercing"
+          "Freeze speed: -50%",
+          "Heating speed: -50%",
+          "Immunity from jammer, emp, stun, ap"
         ],
         "disadvantages": [
-          "Overdrive does not charge passively over time"
+          "Overdrive does not charge passively"
         ]
       },
       "Special Protection": {
         "name": "Special Protection",
         "advantages": [
-          "Provides immunity from negative effects:\n Jammer\n Electromagnetic Pulse\n Stun\n Armor-Piercing\n Burning\n Freezing"
+          "Immunity from jammer",
+          "Immunity from emp",
+          "Immunity from stun",
+          "Immunity from ap",
+          "Immunity from burning",
+          "Immunity from freezing"
         ],
         "disadvantages": []
       }
