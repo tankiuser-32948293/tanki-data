@@ -1842,16 +1842,17 @@
         "Tesla Increased Voltage": {
           "name": "Tesla Increased Voltage",
           "advantages": [
-            "TBA"
+            "Additional damage: +100%"
           ],
           "disadvantages": [
-            "TBA"
+            "Standard damage: -100%",
+            "Critical damage: -22.5%"
           ]
         },
         "Camper": {
           "name": "Camper",
           "advantages": [
-            "Normal and critical damage increase: +90%"
+            "Regular and critical damage increase: +90%"
           ],
           "disadvantages": [
             "Damage boost is active only while you have at least 50% of your maximum HP.",
@@ -1872,7 +1873,7 @@
         "Excelsior": {
           "name": "Excelsior",
           "advantages": [
-            "Damage (Chain Lightning): +30%",
+            "Regular damage: +30%",
             "Turning speed: +15%",
             "Turning acceleration: +15%"
           ],
@@ -1881,7 +1882,7 @@
         "Phoenix": {
           "name": "Phoenix",
           "advantages": [
-            "Damage: +15%",
+            "Regular damage: +15%",
             "Critical damage: +15%",
             "Critical chance: +30%",
             "Chain lightning range: +10%",
