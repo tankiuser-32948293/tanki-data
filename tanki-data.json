@@ -2102,10 +2102,10 @@
         "Camper": {
           "name": "Camper",
           "advantages": [
-            "Normal and critical damage increase: +100%"
+            "Normal and critical damage increase: +90%"
           ],
           "disadvantages": [
-            "Damage boost is active only while you have at least 75% of your maximum HP.",
+            "Damage boost is active only while you have at least 85% of your maximum HP.",
             "Effect is disabled when the tank has the  Freezing status effect."
           ]
         },
@@ -2799,6 +2799,21 @@
             "Recoil force: +15%"
           ]
         },
+        "Yamato": {
+          "name": "Yamato",
+          "advantages": [
+            "Damage: +60%",
+            "Critical damage: +50%",
+            "Initial projectile speed: +100%",
+            "Final projectile speed: +100%",
+            "Minimum splash damage radius: +50%"
+          ],
+          "disadvantages": [
+            "Reload: +80%",
+            "Rotation speed: -25%",
+            "Rotation acceleration: -25%"
+          ]
+        },
         "Camper": {
           "name": "Camper",
           "advantages": [
@@ -2817,22 +2832,6 @@
           "disadvantages": [
             "Critical chance: -12%",
             "Critical damage: -90%"
-          ]
-        },
-        "Yamato": {
-          "name": "Yamato",
-          "advantages": [
-            "Normal Damage +60%",
-            "Critical Damage +50%",
-            "Initial projectile Speed ​​+100%",
-            "Final projectile speed +100%",
-            "Range of minimum damage: +50%",
-            "Enemy highlighting range +50%"
-          ],
-          "disadvantages": [
-            "Reload time +80%",
-            "Rotation speed -25%",
-            "Rotation acceleration -25%"
           ]
         },
         "Excelsior": {
