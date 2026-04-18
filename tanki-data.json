@@ -2556,6 +2556,25 @@
             "Recoil +10%"
           ]
         },
+        "Needle Gun": {
+          "name": "Needle Gun",
+          "advantages": [
+            "Magazine size = 12",
+            "Time between two shots: -80%",
+            "Start of damage degression: +300%",
+            "End of damage degression: +300%",
+            "Range: +300%",
+            "Enemy highlight range: +300%",
+            "Vertical/Horizontal scattering angle: 0°"
+          ],
+          "disadvantages": [
+            "Impact force -90%",
+            "Critical damage -50%",
+            "Bullets per shot = 5",
+            "Reload time +200%",
+            "Recoil -90%"
+          ]
+        },
         "Camper": {
           "name": "Camper",
           "advantages": [
