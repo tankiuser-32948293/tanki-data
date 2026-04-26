@@ -17,8 +17,8 @@
         "High-pressure pump": {
           "name": "High-pressure pump",
           "advantages": [
-            "Range +25%",
-            "Range of minimum damage: +50%",
+            "Range +50%",
+            "Range (of minimum damage): +50%",
             "Range of maximum damage: +50%"
           ],
           "disadvantages": [
