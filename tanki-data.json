@@ -581,7 +581,6 @@
         "High-pressure pump": {
           "name": "High-pressure pump",
           "advantages": [
-            "Range: +25%",
             "Range (of minimum damage): +50%",
             "Range of maximum damage: +50%"
           ],
@@ -1201,7 +1200,7 @@
             "Recovers HP at a rate of 35% of your base damage per tick while beam is on an enemy. Healing rate is not affected by protection, supplies, or status effects."
           ],
           "disadvantages": [
-            "Energy consumption when idle: +300%",
+            "Energy consumption when idle: +200%",
             "Critical hits removed (damage and healing)",
             "Healing rate: -99%"
           ]
@@ -1253,7 +1252,6 @@
           "name": "Excelsior",
           "advantages": [
             "Damage: +30%",
-            "Healing rate: +30%",
             "Turning speed: +15%",
             "Turning acceleration: +15%"
           ],
@@ -1289,8 +1287,8 @@
         "Assault rounds": {
           "name": "Assault rounds",
           "advantages": [
-            "Launch speed +50%",
-            "Target speed +50%",
+            "Initial projectile speed: +50%",
+            "Final projectile speed: +50%",
             "Impact force: +35%"
           ],
           "disadvantages": [
@@ -1397,11 +1395,11 @@
         "Rubberized Rounds": {
           "name": "Rubberized Rounds",
           "advantages": [
+            "Critical damage: +50%",
             "Maximum number of projectile bounces: 3 ",
             "Minimum ricochet angle: 5°",
-            "Critical damage: +50%",
-            "Launch speed +100%",
-            "Target speed +100%"
+            "Initial projectile speed: +100%",
+            "Final projectile speed: +100%"
           ],
           "disadvantages": []
         },
@@ -1428,8 +1426,8 @@
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
           "advantages": [
-            "Launch speed +100%",
-            "Target speed +100%",
+            "Initial projectile speed: +100%",
+            "Final projectile speed: +100%",
             "Damage percentage at the end of the degression: 300%",
             "Start of damage degression -50% ",
             "Range of enemy highlighting +100% "
@@ -1839,20 +1837,20 @@
             "Radius of adding ball lightning to the chain (m) : 1 m"
           ]
         },
-        "Tesla Increased Voltage": {
-          "name": "Tesla Increased Voltage",
+        "Increased Voltage": {
+          "name": "Increased Voltage",
           "advantages": [
             "Additional damage: +100%"
           ],
           "disadvantages": [
             "Standard damage: -100%",
-            "Critical damage: -22.5%"
+            "Lightning ball damage: -22.5%"
           ]
         },
         "Camper": {
           "name": "Camper",
           "advantages": [
-            "Regular and critical damage increase: +90%"
+            "Normal and critical damage increase: +90%"
           ],
           "disadvantages": [
             "Damage boost is active only while you have at least 50% of your maximum HP.",
@@ -1873,7 +1871,7 @@
         "Excelsior": {
           "name": "Excelsior",
           "advantages": [
-            "Regular damage: +30%",
+            "Damage (Chain Lightning): +30%",
             "Turning speed: +15%",
             "Turning acceleration: +15%"
           ],
@@ -1882,7 +1880,7 @@
         "Phoenix": {
           "name": "Phoenix",
           "advantages": [
-            "Regular damage: +15%",
+            "Damage: +15%",
             "Critical damage: +15%",
             "Critical chance: +30%",
             "Chain lightning range: +10%",
@@ -2058,10 +2056,9 @@
         "Vacuum Missiles": {
           "name": "Vacuum Missiles",
           "advantages": [
-            "Average and minimum splash damage: 235%",
-            "Medium splash damage radius: 5m",
+            "Critical chance: +25%",
+            "Average and minimal splash damage: 235%",
             "Rockets will explode upon double-pressing fire button",
-            "Critical damage: +25%",
             "Minimum rocket speed: 20 m/s",
             "Horizontal auto-aim angle: ±0°"
           ],
@@ -2069,7 +2066,7 @@
             "Damage: -30%",
             "Rocket acceleration time: 1.5 s",
             "Possibility of self-damage if not careful",
-            "Reload time: +6%"
+            "Pause between salvo rockets: +6%"
           ]
         },
         "Missile Launcher «Meteor»": {
@@ -2163,7 +2160,7 @@
             "Minimum sniping damage: +30%"
           ],
           "disadvantages": [
-            "Arcade reload: +15%"
+            "Arcade reload: +34%"
           ]
         },
         "Heavy capacitors": {
@@ -2794,8 +2791,8 @@
         "«Anvil» shells": {
           "name": "«Anvil» shells",
           "advantages": [
-            "Regular damage: +35%",
             "Reload time: -10%",
+            "Regular damage: +35%",
             "Critical damage: +30%",
             "Critical splash radius: 12m"
           ],
@@ -2816,21 +2813,6 @@
           "disadvantages": [
             "Min shell speed: 10 m/s",
             "Recoil force: +15%"
-          ]
-        },
-        "Yamato": {
-          "name": "Yamato",
-          "advantages": [
-            "Damage: +60%",
-            "Critical damage: +50%",
-            "Initial projectile speed: +100%",
-            "Final projectile speed: +100%",
-            "Minimum splash damage radius: +50%"
-          ],
-          "disadvantages": [
-            "Reload: +80%",
-            "Rotation speed: -25%",
-            "Rotation acceleration: -25%"
           ]
         },
         "Camper": {
