@@ -511,6 +511,18 @@
             "Minimum Critical Damage Chance = -100%"
           ]
         },
+        "Vacuum shell": {
+          "name": "Vacuum shell",
+          "advantages": [
+            "Splash damage radius: 12 meters",
+            "Average Splash damage radius: 9 meters",
+            "Average and minimum splash damage: 250%",
+            "Ricochet is disabled"
+          ],
+          "disadvantages": [
+            "Damage: -15%"
+          ]
+        },
         "Camper": {
           "name": "Camper",
           "advantages": [
@@ -529,17 +541,6 @@
           "disadvantages": [
             "Critical chance: -8%",
             "Critical damage: -90%"
-          ]
-        },
-        "Vacuum shell": {
-          "name": "Vacuum shell",
-          "advantages": [
-            "Splash damage radius: 12 meters",
-            "Average Splash damage radius: 9 meters",
-            "Average and minimum splash damage: 250%"
-          ],
-          "disadvantages": [
-            "Damage: -15%"
           ]
         },
         "Excelsior": {
@@ -2160,7 +2161,7 @@
             "Minimum sniping damage: +30%"
           ],
           "disadvantages": [
-            "Arcade reload: +34%"
+            "Arcade reload: +15%"
           ]
         },
         "Heavy capacitors": {
