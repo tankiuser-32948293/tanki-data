@@ -2618,7 +2618,245 @@
     "THUNDER": {
       "name": "THUNDER",
       "link": "https://en.tankiwiki.com/Augments_for_Thunder",
-      "augmentData": {}
+      "augmentData": {
+        "Adrenaline": {
+          "name": "Adrenaline",
+          "advantages": [
+            "Regular and critical damage: +25%"
+          ],
+          "disadvantages": [
+            "Damage bonus only activates when health is ≤25%",
+            "Effect is disabled when the tank has the Freezing status effect."
+          ]
+        },
+        "Small caliber charging machine": {
+          "name": "Small caliber charging machine",
+          "advantages": [
+            "Reload time: -20%"
+          ],
+          "disadvantages": [
+            "Regular damage: -30%"
+          ]
+        },
+        "Subcaliber rounds": {
+          "name": "Subcaliber rounds",
+          "advantages": [
+            "Reload time: -10%",
+            "Projectile speed: +100%",
+            "Impact force: +25%",
+            "Firing speed: +100%",
+            "Self damage removed"
+          ],
+          "disadvantages": [
+            "Splash damage removed"
+          ]
+        },
+        "«Sledgehammer» rounds": {
+          "name": "«Sledgehammer» rounds",
+          "advantages": [
+            "Regular damage: +35%"
+          ],
+          "disadvantages": [
+            "Range of minimum damage: -60%",
+            "Range of maximum damage: -60%",
+            "Projectile speed: -50%",
+            "Critical hits disabled",
+            "Launch speed -50"
+          ]
+        },
+        "«Wyvern» shells": {
+          "name": "«Wyvern» shells",
+          "advantages": [
+            "Critical hits lower the temperature of all enemy tanks in a 12 meter radius by -1.00.",
+            "Critical splash damage radius: 12 m",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "«Salamander» shells": {
+          "name": "«Salamander» shells",
+          "advantages": [
+            "Critical hits raise the temperature of all enemy tanks in a 12 meter radius by +0.40.",
+            "Critical splash damage radius: 12 m",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "«Magneto» shells": {
+          "name": "«Magneto» shells",
+          "advantages": [
+            "Critical hits apply the  Electromagnetic Pulse status effect to all enemies in a 12 meter radius for 2 seconds.",
+            "Critical splash damage radius: 12 m",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "«Peacekeeper» shells": {
+          "name": "«Peacekeeper» shells",
+          "advantages": [
+            "Critical hits apply the  Stun status effect to all enemies in a 12 meter radius for 1 second.",
+            "Critical splash damage radius: 12 m",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "«Corrosion» shells": {
+          "name": "«Corrosion» shells",
+          "advantages": [
+            "Critical hits apply the  Armor-Piercing status effect to all enemies in a 12 meter radius for 5 seconds.",
+            "Critical splash damage radius: 12 m",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "«Noise» shells": {
+          "name": "«Noise» shells",
+          "advantages": [
+            "Hitting an enemy tank applies the  Jammer status effect to them and all enemies in a 12 meter radius for 3 seconds."
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Strict Ammunition Load": {
+          "name": "Strict Ammunition Load",
+          "advantages": [
+            "Every third hit is guaranteed to be a critical",
+            "The first shot after spawning will be a critical",
+            "Reload time: -20%",
+            "Critical damage: +25%"
+          ],
+          "disadvantages": []
+        },
+        "Hyperspeed shells": {
+          "name": "Hyperspeed shells",
+          "advantages": [
+            "Launch speed +100%",
+            "Target velocity +100%",
+            "Damage percentage at the end of the degression = 300%",
+            "Start of damage degression -50% ",
+            "Range of enemy highlighting +100% "
+          ],
+          "disadvantages": [
+            "Regular damage: -50%",
+            "Critical hits removed",
+            "Horizontal auto-aim angle: ±0.2°"
+          ]
+        },
+        "Vacuum shells": {
+          "name": "Vacuum shells",
+          "advantages": [
+            "Splash damage radius: 12 m",
+            "Radius of average splash damage: 9 m",
+            "Average and minimal splash damage: 250%",
+            "Horizontal auto-aim angle: ±0°"
+          ],
+          "disadvantages": [
+            "Damage: -15%"
+          ]
+        },
+        "Adaptive reload": {
+          "name": "Adaptive reload",
+          "advantages": [
+            "Reload reduction per enemy damaged: 33%"
+          ],
+          "disadvantages": [
+            "Base reload time: +15%",
+            "Splash damage radius: -25%"
+          ]
+        },
+        "«Nanotech» shells": {
+          "name": "«Nanotech» shells",
+          "advantages": [
+            "Shooting a teammate heals them the same amount it would damage an unarmored enemy.\nHealing gives from 1 to 10 reputation points, depending on the amount of health restored.\nHealing gives from 1 to 20 experience points, depending on the amount of health restored.",
+            "Healing is not affected by range"
+          ],
+          "disadvantages": [
+            "Damage: -20%",
+            "Impact force disabled",
+            "Critical hits disabled",
+            "Splash damage does not heal allied tanks",
+            "Horizontal auto-aim angle: ±0°"
+          ]
+        },
+        "«Anvil» shells": {
+          "name": "«Anvil» shells",
+          "advantages": [
+            "Reload time: -10%",
+            "Regular damage: +35%",
+            "Critical damage: +30%",
+            "Critical splash radius: 12m"
+          ],
+          "disadvantages": [
+            "Range of maximum damage: -50%",
+            "Range of minimum damage: -25%"
+          ]
+        },
+        "Bolter": {
+          "name": "Bolter",
+          "advantages": [
+            "Max shell speed: 700 m/s",
+            "Shell acceleration phase duration: 2.5s ",
+            "Reload time: -45%",
+            "Impact force: +25%",
+            "Splash damage impact force: +25%"
+          ],
+          "disadvantages": [
+            "Min shell speed: 10 m/s",
+            "Recoil force: +15%"
+          ]
+        },
+        "Camper": {
+          "name": "Camper",
+          "advantages": [
+            "Normal and critical damage increase: +90%"
+          ],
+          "disadvantages": [
+            "Damage boost is active only while you have at least 85% of your maximum HP.",
+            "Effect is disabled when the tank has the  Freezing status effect."
+          ]
+        },
+        "Pulsar": {
+          "name": "Pulsar",
+          "advantages": [
+            "Hitting an enemy with a critical shot will apply the following status effects:\n Jammer: 5 sec\n Electromagnetic Pulse: 2 sec\n Stun: 1 sec\n Armor-Piercing: 5 sec"
+          ],
+          "disadvantages": [
+            "Critical chance: -12%",
+            "Critical damage: -90%"
+          ]
+        },
+        "Excelsior": {
+          "name": "Excelsior",
+          "advantages": [
+            "Damage: +30%",
+            "Turning speed: +15%",
+            "Turning acceleration: +15%"
+          ],
+          "disadvantages": []
+        },
+        "Phoenix": {
+          "name": "Phoenix",
+          "advantages": [
+            "Damage: +15%",
+            "Critical damage: +15%",
+            "Critical chance: +30%",
+            "Vertical auto-aim: +15%",
+            "Reputation points earned in battle: +40%"
+          ],
+          "disadvantages": []
+        }
+      }
     },
     "TWINS": {
       "name": "TWINS",
@@ -2810,7 +3048,242 @@
     "RAILGUN": {
       "name": "RAILGUN",
       "link": "https://en.tankiwiki.com/Augments_for_Railgun",
-      "augmentData": {}
+      "augmentData": {
+        "Adrenaline": {
+          "name": "Adrenaline",
+          "advantages": [
+            "Regular and critical damage: +25%"
+          ],
+          "disadvantages": [
+            "Damage bonus only activates when health is ≤20%",
+            "Effect is disabled when the tank has the Freezing status effect."
+          ]
+        },
+        "Round stabilization": {
+          "name": "Round stabilization",
+          "advantages": [
+            "Penetration: 100%",
+            "Damage is not distance-dependent"
+          ],
+          "disadvantages": [
+            "Regular damage: -5%",
+            "Critical damage: -24%"
+          ]
+        },
+        "Reinforced aiming transmission": {
+          "name": "Reinforced aiming transmission",
+          "advantages": [
+            "Turret rotation speed: +50%",
+            "Turret rotatory acceleration: +50%",
+            "Vertical auto-aim: +50%"
+          ],
+          "disadvantages": []
+        },
+        "Electromagnetic accelerator «Scout»": {
+          "name": "Electromagnetic accelerator «Scout»",
+          "advantages": [
+            "Reload time: -15%",
+            "Shot warmup time: -15%"
+          ],
+          "disadvantages": [
+            "Regular damage: -15%",
+            "Critical damage: -15%"
+          ]
+        },
+        "Cryo Rounds": {
+          "name": "Cryo Rounds",
+          "advantages": [
+            "Hitting an enemy lowers their temperature by -0.40.",
+            "Critically hitting an enemy lowers their temperature by -1.00.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Incendiary Rounds": {
+          "name": "Incendiary Rounds",
+          "advantages": [
+            "Critically hitting an enemy raises their temperature by +0.40. A maximum of two tanks can be set on fire in this way at any given time.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "EMP Rounds": {
+          "name": "EMP Rounds",
+          "advantages": [
+            "Critically hitting an enemy applies the  Electromagnetic Pulse status effect to them for 2 seconds.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Stun Rounds": {
+          "name": "Stun Rounds",
+          "advantages": [
+            "Critically hitting an enemy applies the  Stun status effect to them for 1 second.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Super Armor-Piercing Rounds": {
+          "name": "Super Armor-Piercing Rounds",
+          "advantages": [
+            "Critically hitting an enemy will apply the  Armor-Piercing status effect to them for 5 seconds.",
+            "Critical hit chance: +10%"
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Jamming Shells": {
+          "name": "Jamming Shells",
+          "advantages": [
+            "Hitting an enemy applies the  Jammer status effect to them for 9 seconds."
+          ],
+          "disadvantages": [
+            "Critical damage: -50%"
+          ]
+        },
+        "Large caliber rounds": {
+          "name": "Large caliber rounds",
+          "advantages": [
+            "Regular damage: +50%",
+            "Critical damage: +20%",
+            "Critical Hit Chance: +50%"
+          ],
+          "disadvantages": [
+            "Shot warmup time: +15%",
+            "Reload time: +16%"
+          ]
+        },
+        "Round destabilization": {
+          "name": "Round destabilization",
+          "advantages": [
+            "Critical damage: +20%",
+            "Fixed critical chance: 50%",
+            "Impact force: +60%"
+          ],
+          "disadvantages": [
+            "Regular damage: -25%"
+          ]
+        },
+        "«Death Herald» compulsator": {
+          "name": "«Death Herald» compulsator",
+          "advantages": [
+            "Destroying an enemy fully reloads the turret",
+            "Reload time: -40%",
+            "Shot warmup time: -25%"
+          ],
+          "disadvantages": []
+        },
+        "Hyperspace rounds": {
+          "name": "Hyperspace rounds",
+          "advantages": [
+            "Penetration: +200% ",
+            "Shot warmup time: -25%"
+          ],
+          "disadvantages": [
+            "Impact force removed",
+            "Critical hits disabled"
+          ]
+        },
+        "Hyperspeed shells": {
+          "name": "Hyperspeed shells",
+          "advantages": [
+            "Weak damage: 300%",
+            "Range of minimum damage: -60% ",
+            "Range of maximum damage: -70% ",
+            "Highlighting range: +100% "
+          ],
+          "disadvantages": [
+            "Regular damage: -50%"
+          ]
+        },
+        "«Shotgun» rounds": {
+          "name": "«Shotgun» rounds",
+          "advantages": [
+            "Normal damage: +50%",
+            "Reload time: -10%"
+          ],
+          "disadvantages": [
+            "Range of maximum damage: -80%",
+            "Range of minimum damage: -50%",
+            "Weak damage = 25%"
+          ]
+        },
+        "Excalibur rounds": {
+          "name": "Excalibur rounds",
+          "advantages": [
+            "Critical damage: +129.9%",
+            "Maximum chance of critical damage: 99%",
+            "Increased chance of critical damage: +45%",
+            "Minimum chance of critical damage: 5%"
+          ],
+          "disadvantages": [
+            "Reload time: +16%",
+            "Initial chance of critical damage: 5%",
+            "Shot warmup time: +25%"
+          ]
+        },
+        "Excelsior": {
+          "name": "Excelsior",
+          "advantages": [
+            "Damage: +30%",
+            "Turning speed: +15%",
+            "Turning acceleration: +15%"
+          ],
+          "disadvantages": []
+        },
+        "Camper": {
+          "name": "Camper",
+          "advantages": [
+            "Normal and critical damage increase: +90%"
+          ],
+          "disadvantages": [
+            "Damage boost is active only while you have at least 95% of your maximum HP.",
+            "Effect is disabled when the tank has the  Freezing status effect."
+          ]
+        },
+        "Detonator": {
+          "name": "Detonator",
+          "advantages": [
+            "Damage (Combo Shot with grenade): +100%",
+            "Shot warmup time: 0.5s",
+            "Max. area damage radius of the grenade: +100%",
+            "Avg. area damage radius of the grenade: +100%",
+            "Min. area damage radius of the grenade: +30%",
+            "Rotational acceleration: +100%"
+          ],
+          "disadvantages": []
+        },
+        "Pulsar": {
+          "name": "Pulsar",
+          "advantages": [
+            "Hitting an enemy with a critical shot will apply the following status effects:\n Jammer: 9 sec\n Electromagnetic Pulse: 2 sec\n Stun: 1 sec\n Armor-Piercing: 5 sec"
+          ],
+          "disadvantages": [
+            "Critical chance: -8%",
+            "Critical damage: -90%"
+          ]
+        },
+        "Phoenix": {
+          "name": "Phoenix",
+          "advantages": [
+            "Damage: +15%",
+            "Critical damage: +15%",
+            "Critical chance: +30%",
+            "Vertical auto-aim: +15%",
+            "Reputation points earned in battle: +40%"
+          ],
+          "disadvantages": []
+        }
+      }
     }
   },
   "hullsData": {
