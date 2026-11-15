@@ -425,6 +425,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -1130,13 +1145,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -2984,6 +3000,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -3689,13 +3720,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -5543,6 +5575,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -6248,13 +6295,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -8102,6 +8150,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -8807,13 +8870,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -10661,6 +10725,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -11366,13 +11445,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -13220,6 +13300,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -13925,13 +14020,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -15779,6 +15875,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -16484,13 +16595,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -18338,6 +18450,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -19043,13 +19170,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -20897,6 +21025,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -21602,13 +21745,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -23456,6 +23600,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -24161,13 +24320,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -26015,6 +26175,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -26720,13 +26895,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -28574,6 +28750,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -29279,13 +29470,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -31133,6 +31325,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -31838,13 +32045,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -33692,6 +33900,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -34397,13 +34620,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -36251,6 +36475,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -36956,13 +37195,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
@@ -38810,6 +39050,21 @@
             "Lightning ball damage: -22.5%"
           ]
         },
+        "Hadouken": {
+          "name": "Hadouken",
+          "advantages": [
+            "Lightning Ball Reload: -85%",
+            "Lightning ball damage: +35%",
+            "Splash damage impact force: +1000%:",
+            "Lightning ball speed: +300%"
+          ],
+          "disadvantages": [
+            "Radius of adding a tank to the chain (m): -90%",
+            "Radius of adding ball lightning to the chain (m): -90%",
+            "Radius of max. explosion damage: 3m",
+            "Radius of min. explosion damage: 6m"
+          ]
+        },
         "Slugger": {
           "name": "Slugger",
           "advantages": [
@@ -39515,13 +39770,14 @@
         "Autocannon": {
           "name": "Autocannon",
           "advantages": [
-            "Reload: -55%",
-            "Recoil: -25%"
+            "Magazine size: 5",
+            "Time between two shots: -80%",
+            "Recoil: -50%"
           ],
           "disadvantages": [
-            "Regular damage: -35%",
-            "Impact force: -66%",
-            "Horizontal auto-aim angle: ±0.6°"
+            "Damage: -25%",
+            "Reload time: +100%",
+            "Impact force: -50%"
           ]
         },
         "Explosive Rounds": {
