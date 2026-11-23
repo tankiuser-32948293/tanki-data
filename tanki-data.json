@@ -1169,11 +1169,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -3744,11 +3745,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -6319,11 +6321,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -8894,11 +8897,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -11469,11 +11473,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -14044,11 +14049,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -16619,11 +16625,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -19194,11 +19201,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -21769,11 +21777,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -24344,11 +24353,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -26919,11 +26929,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -29494,11 +29505,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -32069,11 +32081,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -34644,11 +34657,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -37219,11 +37233,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
@@ -39794,11 +39809,12 @@
         "Sorted Ammunition": {
           "name": "Sorted Ammunition",
           "advantages": [
-            "Every fourth hit is guaranteed to be a critical",
-            "The first shot after spawning will be a critical",
-            "Reload time: -10%"
+            "Reload time: -50%",
+            "Second shot is guaranteed to deal critical damage."
           ],
-          "disadvantages": []
+          "disadvantages": [
+            "Time between two shots: +100%"
+          ]
         },
         "Hyperspeed Rounds": {
           "name": "Hyperspeed Rounds",
